@@ -33,13 +33,13 @@ with open('d2e-fantasy.json') as f:
                 
             rank = data[season][team]['Rank']
                 
-            pts_against = data[season][team]['Pts Against']
-            pts_against_per_game = pts_against / n_weeks
-            strength_of_schedule = pts_against_per_game / pts_for_avg_per_game
-            strength_of_schedule_pct = 100 * (strength_of_schedule - 1)
-            
             expected_opponent_pts = np.array([data[season][opponent]['Pts For'] for opponent in data[season][team]['Schedule']])
             expected_opponent_pts_avg = expected_opponent_pts.mean()
+            expected_opponent_pts_avg_per_game = expected_opponent_pts_avg / n_weeks
+            strength_of_schedule = expected_opponent_pts_avg_per_game / pts_for_avg_per_game
+            strength_of_schedule_pct = 100 * (strength_of_schedule - 1)
+            
+            pts_against = data[season][team]['Pts Against']
             opponent_heat_index = pts_against / expected_opponent_pts_avg
             opponent_heat_index_pct = 100 * (opponent_heat_index - 1)
             
