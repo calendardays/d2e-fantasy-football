@@ -1,0 +1,256 @@
+{
+    "2018": {
+        "Little Giants": {
+            "Owner": "John",
+            "Rank": 1,
+            "Pts For": 1504.92,
+            "Pts Against": 1531.64,
+            "Schedule": [
+                "G.O.A.T. Herd",
+                "Deshaun Watt Son",
+                "HerroPlease",
+                "Boof",
+                "$0 QB",
+                "InToddWeTrust",
+                "JIMMYE",
+                "Meul's Mules",
+                "Pls win",
+                "InToddWeTrust",
+                "All Over",
+                "Freeman 2 Freeman",
+                "$0 QB"
+            ]
+        },
+        "InToddWeTrust": {
+            "Owner": "Dan",
+            "Rank": 2,
+            "Pts For": 1499.50,
+            "Pts Against": 1448.98,
+            "Schedule": [
+                "Freeman 2 Freeman",
+                "All Over",
+                "G.O.A.T. Herd",
+                "Deshaun Watt Son",
+                "HerroPlease",
+                "Little Giants",
+                "$0 QB",
+                "Boof",
+                "JIMMYE",
+                "Little Giants",
+                "Pls win",
+                "Meul's Mules",
+                "HerroPlease"
+            ]
+        },
+        "G.O.A.T. Herd": {
+            "Owner": "Dave",
+            "Rank": 3,
+            "Pts For": 1643.88,
+            "Pts Against": 1295.18,
+            "Schedule": [
+                "Little Giants",
+                "$0 QB",
+                "InToddWeTrust",
+                "JIMMYE",
+                "Meul's Mules",
+                "Pls win",
+                "Freeman 2 Freeman",
+                "All Over",
+                "Boof",
+                "JIMMYE",
+                "HerroPlease",
+                "Deshaun Watt Son",
+                "All Over"
+            ]
+        },
+        "Pls win": {
+            "Owner": "Richie",
+            "Rank": 4,
+            "Pts For": 1537.02,
+            "Pts Against": 1448.38,
+            "Schedule": [
+                "JIMMYE",
+                "Meul's Mules",
+                "Boof",
+                "Freeman 2 Freeman",
+                "All Over",
+                "G.O.A.T. Herd",
+                "Deshaun Watt Son",
+                "HerroPlease",
+                "Little Giants",
+                "Boof",
+                "InToddWeTrust",
+                "$0 QB",
+                "Meul's Mules"
+            ]
+        },
+        "All Over": {
+            "Owner": "Andrew",
+            "Rank": 5,
+            "Pts For": 1306.56,
+            "Pts Against": 1310.46,
+            "Schedule": [
+                "$0 QB",
+                "InToddWeTrust",
+                "JIMMYE",
+                "Meul's Mules",
+                "Pls win",
+                "Freeman 2 Freeman",
+                "Boof",
+                "G.O.A.T. Herd",
+                "Deshaun Watt Son",
+                "Freeman 2 Freeman",
+                "Little Giants",
+                "HerroPlease",
+                "G.O.A.T. Herd"
+            ]
+        },
+        "Meul's Mules": {
+            "Owner": "Brett",
+            "Rank": 6,
+            "Pts For": 1552.06,
+            "Pts Against": 1375.36,
+            "Schedule": [
+                "Boof",
+                "Pls win",
+                "Freeman 2 Freeman",
+                "All Over",
+                "G.O.A.T. Herd",
+                "Deshaun Watt Son",
+                "HerroPlease",
+                "Little Giants",
+                "$0 QB",
+                "Deshaun Watt Son",
+                "JIMMYE",
+                "InToddWeTrust",
+                "Pls win"
+            ]
+        },
+        "$0 QB": {
+            "Owner": "Erik",
+            "Rank": 7,
+            "Pts For": 1392.54,
+            "Pts Against": 1407.82,
+            "Schedule": [
+                "All Over",
+                "G.O.A.T. Herd",
+                "Deshaun Watt Son",
+                "HerroPlease",
+                "Little Giants",
+                "Boof",
+                "InToddWeTrust",
+                "JIMMYE",
+                "Meul's Mules",
+                "HerroPlease",
+                "Freeman 2 Freeman",
+                "Pls win",
+                "Little Giants"
+            ]
+        },
+        "Boof": {
+            "Owner": "Ryan",
+            "Rank": 8,
+            "Pts For": 1412.52,
+            "Pts Against": 1392.56,
+            "Schedule": [
+                "Meul's Mules",
+                "HerroPlease",
+                "Pls win",
+                "Little Giants",
+                "Freeman 2 Freeman",
+                "$0 QB",
+                "All Over",
+                "InToddWeTrust",
+                "G.O.A.T. Herd",
+                "Pls win",
+                "Deshaun Watt Son",
+                "JIMMYE",
+                "JIMMYE"
+            ]
+        },
+        "JIMMYE": {
+            "Owner": "Jordan",
+            "Rank": 9,
+            "Pts For": 1180.02,
+            "Pts Against": 1448.72,
+            "Schedule": [
+                "Pls win",
+                "Freeman 2 Freeman",
+                "All Over",
+                "G.O.A.T. Herd",
+                "Deshaun Watt Son",
+                "HerroPlease",
+                "Little Giants",
+                "$0 QB",
+                "InToddWeTrust",
+                "G.O.A.T. Herd",
+                "Meul's Mules",
+                "Boof",
+                "Boof"
+            ]
+        },
+        "HerroPlease": {
+            "Owner": "Ben",
+            "Rank": 10,
+            "Pts For": 1364.38,
+            "Pts Against": 1406.00,
+            "Schedule": [
+                "Deshaun Watt Son",
+                "Boof",
+                "Little Giants",
+                "$0 QB",
+                "InToddWeTrust",
+                "JIMMYE",
+                "Meul's Mules",
+                "Pls win",
+                "Freeman 2 Freeman",
+                "$0 QB",
+                "G.O.A.T. Herd",
+                "All Over",
+                "InToddWeTrust"
+            ]
+        },
+        "Deshaun Watt Son": {
+            "Owner": "Kin",
+            "Rank": 11,
+            "Pts For": 1370.28,
+            "Pts Against": 1436.50,
+            "Schedule": [
+                "HerroPlease",
+                "Little Giants",
+                "$0 QB",
+                "InToddWeTrust",
+                "JIMMYE",
+                "Meul's Mules",
+                "Pls win",
+                "Freeman 2 Freeman",
+                "All Over",
+                "Meul's Mules",
+                "Boof",
+                "G.O.A.T. Herd",
+                "Freeman 2 Freeman"
+            ]
+        },
+        "Freeman 2 Freeman": {
+            "Owner": "Colton",
+            "Rank": 12,
+            "Pts For": 1274.94,
+            "Pts Against": 1537.02,
+            "Schedule": [
+                "InToddWeTrust",
+                "JIMMYE",
+                "Meul's Mules",
+                "Pls win",
+                "Boof",
+                "All Over",
+                "G.O.A.T. Herd",
+                "Deshaun Watt Son",
+                "HerroPlease",
+                "All Over",
+                "$0 QB",
+                "Little Giants",
+                "Deshaun Watt Son"
+            ]
+        }
+    }
+}
